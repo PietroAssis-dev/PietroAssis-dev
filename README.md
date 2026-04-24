@@ -2,7 +2,7 @@
 
 <h1>Desenvolvedor Back-End</h1>
 
-<p style="font-size:20px;">Me chamo Pietro Henrique, conclui meu ensino médio técnico na escola "ETEC Fernando Prestes" no curso de informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar.<p>
+<p style="font-size:20px;">Me chamo Pietro Henrique, conclui meu ensino médio técnico na escola "ETEC Fernando Prestes" no curso de informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pietro-assis-961954392/">
