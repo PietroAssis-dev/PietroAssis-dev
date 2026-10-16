@@ -1,4 +1,6 @@
-https://chatgpt.com/s/m_6ad232a58e2c8191959a799188507938
+<div align="center">
+  <img src="./assets/banner-pietro.png" alt="Pietro Assis - Desenvolvedor Full Stack" width="100%" />
+</div>
 
 <h1 align=center style="color: #525252">Pietro Assis</h1>
 <p align=center>Desenvolvedor Full Stack</p>
