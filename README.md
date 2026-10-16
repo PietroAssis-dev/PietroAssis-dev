@@ -55,7 +55,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroAssis-dev&show_icons=true&theme=tokyonight)
 
 
 <h2 align="center">Minhas contribuições</h2>
