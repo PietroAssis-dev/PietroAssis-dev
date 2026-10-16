@@ -1,4 +1,4 @@
-
+[blob:https://chatgpt.com/8c66a96a-57e6-438d-a946-4b5b3adc30bb](https://chatgpt.com/s/m_6ad232a58e2c8191959a799188507938)
 
 
 <h1 align=center style="color: #525252">Pietro Assis</h1>
