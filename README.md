@@ -64,15 +64,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/PietroAssis-dev/PietroAssis-dev/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/PietroAssis-dev/PietroAssis-dev/output/github-snake.svg"
     />
     <img
       alt="Animação da cobrinha percorrendo minhas contribuições"
-      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/PietroAssis-dev/PietroAssis-dev/output/github-snake.svg"
     />
   </picture>
 </p>
