@@ -58,3 +58,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroAssis-dev&show_icons=true&theme=tokyonight)
 
 
+<h2 align="center">Minhas contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+    />
+    <img
+      alt="Animação da cobrinha percorrendo minhas contribuições"
+      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+    />
+  </picture>
+</p>
