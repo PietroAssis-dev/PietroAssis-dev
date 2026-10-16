@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/PietroAssis.png" alt="Pietro Assis - Desenvolvedor Full Stack" width="100%" />
 </div>
-
+<br><br>
 <p align=center>Desenvolvedor Full Stack</p>
 
 <p style="font-size:20px;">Me chamo Pietro Henrique, conclui meu ensino médio técnico na escola "ETEC Fernando Prestes" no curso de informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP<p>
