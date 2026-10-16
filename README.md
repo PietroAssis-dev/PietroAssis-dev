@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-pietro.png" alt="Pietro Assis - Desenvolvedor Full Stack" width="100%" />
+  <img src="./assets/PietroAssis.png" alt="Pietro Assis - Desenvolvedor Full Stack" width="100%" />
 </div>
 
 <h1 align=center style="color: #525252">Pietro Assis</h1>
