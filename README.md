@@ -33,7 +33,7 @@
 <p style="font-size:23px; font-weight:bold;">Front</p>
 
 <p >
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,js,bootstrap,css" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,js,bootstrap,css" />
 </p>
 
 
