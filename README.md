@@ -40,7 +40,7 @@
 <br>
 <p style="font-size:23px; font-weight:bold ;">Back</p>
 <p >
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,java,typescript,nest,nodejs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,nest,nodejs" />
 </p>
 <p style="font-size:23px; font-weight:bold ;">Banco</p>
 <br>
